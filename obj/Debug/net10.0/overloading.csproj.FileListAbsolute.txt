@@ -1,0 +1,14 @@
+/Users/semihkartal/Desktop/denemler/overloading/obj/Debug/net10.0/overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihkartal/Desktop/denemler/overloading/obj/Debug/net10.0/overloading.AssemblyInfoInputs.cache
+/Users/semihkartal/Desktop/denemler/overloading/obj/Debug/net10.0/overloading.AssemblyInfo.cs
+/Users/semihkartal/Desktop/denemler/overloading/obj/Debug/net10.0/overloading.csproj.CoreCompileInputs.cache
+/Users/semihkartal/Desktop/denemler/overloading/bin/Debug/net10.0/overloading
+/Users/semihkartal/Desktop/denemler/overloading/bin/Debug/net10.0/overloading.deps.json
+/Users/semihkartal/Desktop/denemler/overloading/bin/Debug/net10.0/overloading.runtimeconfig.json
+/Users/semihkartal/Desktop/denemler/overloading/bin/Debug/net10.0/overloading.dll
+/Users/semihkartal/Desktop/denemler/overloading/bin/Debug/net10.0/overloading.pdb
+/Users/semihkartal/Desktop/denemler/overloading/obj/Debug/net10.0/overloading.dll
+/Users/semihkartal/Desktop/denemler/overloading/obj/Debug/net10.0/refint/overloading.dll
+/Users/semihkartal/Desktop/denemler/overloading/obj/Debug/net10.0/overloading.pdb
+/Users/semihkartal/Desktop/denemler/overloading/obj/Debug/net10.0/overloading.genruntimeconfig.cache
+/Users/semihkartal/Desktop/denemler/overloading/obj/Debug/net10.0/ref/overloading.dll
