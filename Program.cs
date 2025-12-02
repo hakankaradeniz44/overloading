@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-       string sayi = "999";
+       string sayi = "Deneme";
        bool sonuc = int.TryParse(sayi, out int outSayi);
        if (sonuc)
        {
